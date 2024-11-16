@@ -1,0 +1,22 @@
+.example-card {
+    max-width: 400px;
+    
+  }
+  
+  .example-card-footer {
+    padding: 16px;
+  }
+  img{
+    height: 300px;
+    width: 300px;
+  }
+  .info{
+    color: #54B4D3;
+  }
+  .danger{
+    color: #DC4C64;
+  }
+  .warning{
+    color: #E4A11B;
+  }
+ 
